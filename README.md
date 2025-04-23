@@ -1,1 +1,1 @@
-# tugas_pertama.dictionary.py
+# tugas pertama dan kedua.dictionary.py
